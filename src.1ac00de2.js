@@ -3,4 +3,4 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{}],"Focm":[function(require,module,exports) {
 "use strict";require("./css/styles");
 },{"./css/styles":"krre"}]},{},["Focm"], null)
-//# sourceMappingURL=/Epoxide-calculator/src.a6490e41.js.map
+//# sourceMappingURL=/Epoxide-calculator/src.1ac00de2.js.map
