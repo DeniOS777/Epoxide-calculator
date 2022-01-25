@@ -42,3 +42,7 @@ ul {
 .text + .text {
   margin-top: 10px;
 }
+
+.text__result {
+  margin-left: 10px;
+}
