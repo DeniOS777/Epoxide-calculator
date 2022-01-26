@@ -30,7 +30,7 @@ ul {
 .input {
   padding: 7px 12px;
   border: 2px solid teal;
-  border-radius: 3px;
+  border-radius: 5px;
 }
 
 .input::placeholder {
@@ -63,10 +63,11 @@ ul {
   align-items: center;
   min-width: 100px;
   padding: 10px 0;
-  color: #ffffff;
-  background-color: #4242f3;
+  font-size: 14px;
+  /* color: #ffffff;
+  background-color: #4263f3;
   border-style: none;
-  border-radius: 5px;
+  border-radius: 5px; */
   transition: transform 150ms ease-in-out, box-shadow 150ms ease-in-out;
 }
 
